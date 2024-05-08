@@ -2,7 +2,7 @@ package prapertemuan9;
 
 /**
  *
- * @author U53R
+ * @author Gazali
  */
 public class Mahasiswa {
     private String nim;

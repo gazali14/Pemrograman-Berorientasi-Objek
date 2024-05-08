@@ -4,7 +4,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author U53R
+ * @author Gazali
  */
 public class PraPertemuan9Main {
     public static void main(String[] args) {

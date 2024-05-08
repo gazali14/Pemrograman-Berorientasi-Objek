@@ -2,7 +2,7 @@ package prapertemuan9;
 
 /**
  *
- * @author U53R
+ * @author Gazali
  */
 
 import java.util.ArrayList;

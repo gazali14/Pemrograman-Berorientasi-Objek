@@ -2,7 +2,7 @@ package prapertemuan9;
 
 /**
  *
- * @author U53R
+ * @author Gazali
  */
 
 import java.awt.*;
@@ -92,12 +92,12 @@ public class MahasiswaView {
         c.insets = new Insets(0,0,0,0);
         pane.add(label, c);
         
-        String[] pilihan = {"","Sulawesi Utara", 
-                            "Gorontalo", 
-                            "Sulawesi Tengah", 
-                            "Sulawesi Barat", 
-                            "Sulawesi Selatan", 
-                            "Sulawesi Tenggara"};
+        String[] pilihan = {"","Jakarta", 
+                            "Bogor", 
+                            "Depok", 
+                            "Tangerang", 
+                            "Bekasi"
+                            };
         provinsiBox = new JComboBox(pilihan);
         c.fill = GridBagConstraints.HORIZONTAL;
         c.gridx = 1;
