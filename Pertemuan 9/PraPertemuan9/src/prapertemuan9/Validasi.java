@@ -34,7 +34,7 @@ public class Validasi {
                 i++;
                 hasil += i + "." + m.getNim() + "-" + m.getNamaDepan() + " " + m.getNamaBelakang() + "\n";
             }
-            return hasil;
+            return hasil; 
         }
         else{
             String keterangan = "Terjadi kesalahan: \n";
